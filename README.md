@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/eoffei7536" target="blank"><img src="https://img.shields.io/twitter/follow/eoffei7536?logo=twitter&style=for-the-badge" alt="eoffei7536" /></a> </p>
 
-- 🔭 I’m currently working on [A flutter app that contains various apps I did when I was learning flutter](https://github.com/Ebenezeroffei/flutter_projects)
+- 🔭 I’m currently working on [A flutter app that contains various side projects I developed while learning flutter](https://github.com/Ebenezeroffei/flutter_projects) and 
 
 - 🌱 I’m currently learning **Flutter, Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ebenezeroffei?tab=repositories](https://github.com/Ebenezeroffei?tab=repositories)
 
-- 💬 Ask me about **Next Js, Python, Django**
+- 💬 Ask me about **Next Js, Python, Django, Flutter**
 
 - 📫 How to reach me **eoffei7536@gmail.com**
 
