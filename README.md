@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/eoffei7536" target="blank"><img src="https://img.shields.io/twitter/follow/eoffei7536?logo=twitter&style=for-the-badge" alt="eoffei7536" /></a> </p>
 
-- 🔭 I’m currently working on [A flutter app that contains various side projects I developed while learning flutter](https://github.com/Ebenezeroffei/flutter-projects) and [a NextJs and Django app for preparing schedules used in the pensions industry in Ghana.](https://github.com/Ebenezeroffei/pensions_schedule_generator_ft)
 
 - 🌱 I’m currently learning **Flutter, Next Js**
 
